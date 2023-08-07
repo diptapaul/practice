@@ -6,6 +6,8 @@ int main() {
     printf("Second Line");
 
     printf("Fourth Line");
+    printf("Third Line");
+
 
     return 0;
 }
