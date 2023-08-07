@@ -5,5 +5,7 @@ int main() {
 
     printf("Second Line");
 
+    printf("Fourth Line");
+
     return 0;
 }
